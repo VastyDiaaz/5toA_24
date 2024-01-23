@@ -1,2 +1,2 @@
-# 5toA_24
+# QuintoA_24
 Repositorio para 5to Computación Sección "A"
